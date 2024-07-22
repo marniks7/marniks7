@@ -1,4 +1,4 @@
-## Hi there, my name is Nick 👋
+## Hi there, my name is Mykyta 👋
 
 Nice to meet you! You can read here about my journey and my experience over the past years
 
