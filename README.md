@@ -23,7 +23,7 @@ Let's talk about what is the problem here?
 - It often happens that the person who assesses the defect is not aware of the ways of solving such issues (without knowing the test case), as result defect might not be resolved at all.
 
 What do I do? I prefer to make a fast assessment of the problem right away so that the nature of the problem is more or less clear and later work on the raised defect in a regular process.
-Why do I talk about that? Sphere of my interests includes reasoning - it helps to see the problem and find a solution.
+Why do I talk about that? Sphere of my interests includes reasoning - it helps to see the problem and find a solution. And looks like I was just in the mood to talk about this topic ☺️
 There is another solution, that can partially help here: dedicated `Chaos Engineering` team/activity. 
 It was a great opportunity for me to explore complex cases, help other developers, and add a stability to the system in case of failures, like reboots, graceful shutdown, HA modes.
 New infrastructure deployed from the scratch - `Kubernetes` with `ChaosMesh` and `Tekton` to manage pipelines. I developed all the parts needed for that integration, e.g. docker images with the tooling, queuing (kubernetes-controller) and pipelines with the test cases.
