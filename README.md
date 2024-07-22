@@ -34,7 +34,8 @@ Obviously, most of the developed code is private, but there were 2 major open-so
 My own initiative included development of the `bash` scripts around Kubernetes for myself and teammates to speedup assessment of the defects, like gathering info from the pod: config variables, heapdumps, gc, logs, versions, etc.
 
 ---
-I was responsible for the development of the `Quarkus` reactive application to solve the business need of the synchronization between two systems, including handling of large jsons, inter-component http communication and complex business logic. 
+I was responsible for the development of the `Quarkus` reactive application to solve the business need of the synchronization between two systems, including handling of large jsons, inter-component http communication and complex business logic.
+And my projects at home included [UI-tool for mobile game](https://github.com/marniks7/nmd-arena-source) with the first time usage of `Vue` framework.
 
 ---
 
