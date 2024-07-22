@@ -3,8 +3,8 @@
 Nice to meet you! You can read here about my journey and my experience over the past years
 
 Once I finished managing a team up to 33 people from 7 cities I have decided to go back to technical problems and their solutions. 
-I love to snowboard fast 🚀 and this love is spread on the Software. This is where my next stop have been: either it is a query to the database, website's content size, just an incorrect data structure used or gather&analyze of the statistics. 
-I made [bitmap-usage](https://github.com/marniks7/bitmap-usage) service in `Go` with a problem close to real, and solution (bitmaps) to achieve low timings (measured in nanoseconds), and low memory footprint. Includes performance tests and measurement infrastructure.
+I love the thrill of snowboarding at high speeds 🚀, and I channel that same passion into my work in software development. This is where my next stop has been: a query to the database that requires improvement, dealing with website's content size or caching, incorrect data structure used or statistics gather&analyze. 
+Years after I made a [bitmap-usage](https://github.com/marniks7/bitmap-usage) service in `Go` with a problem close to the real one, and solution (bitmaps) to achieve low timings (measured in nanoseconds), and low memory footprint. Includes performance tests and measurement infrastructure.
 
 ---
 
@@ -24,9 +24,10 @@ Let's talk about what is the problem here?
 
 What do I do? I prefer to make a fast assessment of the problem right away so that the nature of the problem is more or less clear and later work on the raised defect in a regular process.
 Why do I talk about that? Sphere of my interests includes reasoning - it helps to see the problem and find a solution. And looks like I was just in the mood to talk about this topic ☺️
+
 There is another solution, that can partially help here: dedicated `Chaos Engineering` team/activity. 
-It was a great opportunity for me to explore complex cases, help other developers, and add a stability to the system in case of failures, like reboots, graceful shutdown, HA modes.
-New infrastructure deployed from the scratch - `Kubernetes` with `ChaosMesh` and `Tekton` to manage pipelines. I developed all the parts needed for that integration, e.g. docker images with the tooling, queuing (kubernetes-controller) and pipelines with the test cases.
+It was a great opportunity for me to explore complex cases, help other developers, and add a stability to the system in case in case of expected and unexpected events, like reboots (graceful shutdown, DNS issues) and failures (e.g. service in unavailable, HA mode support)
+New infrastructure deployed from the scratch - `Kubernetes` with `ChaosMesh` and `Tekton` to manage pipelines. I developed all the parts needed for that integration, e.g. docker images with the tooling, queuing (kubernetes controller) and pipelines with the test cases.
 Obviously, most of the developed code is private, but there were 2 major open-source features (both merged) I made at home for Chaos Engineering activity - adding `YAML` editor to the pipelines [yaml editor UI PR](https://github.com/tektoncd/dashboard/pull/2575/) and feature [button to edit and run PR](https://github.com/tektoncd/dashboard/pull/2633). p.s. it was the first time I used `react` framework.
 
 ---
