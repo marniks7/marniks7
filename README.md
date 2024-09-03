@@ -37,11 +37,14 @@ I was responsible for the development of the `Quarkus` reactive application to s
 And my projects at home included [UI-tool for mobile game](https://github.com/marniks7/nmd-arena-source) with the first time usage of `Vue` framework.
 
 ---
+My home project is [AI-based tool for the game](https://github.com/marniks7/nmd-arena-speed-run-tool/ (code is not shared): it analyzes provided video and compares to other previously uploaded videos to identify which run is the fastest. There are multiple separately trained AIs that is analyzing different key objects/states, includes image classification, object detection and OCR. Project has been in production for 7+ months and continiously evolving. Over this time it was used by ~10 people, 400+ videos uploladed. Uses `Python`, `Tensorflow`, `Pytorch`, `Discord API`, `Google Spreadsheet API`, etc
+
+---
 
 My latest project is a development of the proxy to replace system A to B without changes on the client side. I take responsibility to make sure that the service will be `maintainable` over the years. I like to think that I share my knowledge about the features in the form of the `unit and integration tests` for future me or teammates and our `users` are not impacted when we are dealing with the changes.
 
 ---
 Summary:
 In our development handicraft, I think about languages and services like the tools: use the most applicable one! 
-Among my languages are `Java`, `Go`, `JavaScript/TypeScript` and `Python`, messaging/streaming services (`RabbitMQ`, `Kafka`), and a databases (`Postgres`, `Oracle`), Cloud Services (`GKE`) and many other services, tools&utilities, frameworks.
-My experience includes large enterprise solutions, small webapps and a little bit of open source: from 0 to Production and all the way after.
+Among my languages are `Java`, `Go`, `JavaScript/TypeScript` and `Python`, messaging/streaming services (`RabbitMQ`, `Kafka`), and the databases (`Postgres`, `Oracle`, `Cassandra`), Cloud Services (`Google Cloud\GKE`) and many other services, tools&utilities, frameworks.
+My experience includes large enterprise solutions - both monolith and cloud-native, small webapps and a little bit of open source. From 0 to Production and all the way after.
