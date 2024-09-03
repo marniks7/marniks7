@@ -46,5 +46,5 @@ My latest project is a development of the proxy to replace system A to B without
 ---
 Summary:
 In our development handicraft, I think about languages and services like the tools: use the most applicable one! 
-Among my languages are `Java`, `Go`, `JavaScript/TypeScript` and `Python`, messaging/streaming services (`RabbitMQ`, `Kafka`), and the databases (`Postgres`, `Oracle`, `Cassandra`), Cloud Services (`Google Cloud\GKE`) and many other services, tools&utilities, frameworks.
+Among my languages are `Java`, `Go`, `JavaScript/TypeScript` and `Python`, messaging/streaming services (`RabbitMQ`, `Kafka`), and the databases (`Postgres`, `Oracle`, `Cassandra`, `Redis`), Cloud Services (`Google Cloud\GKE`) and many other services, tools&utilities, frameworks.
 My experience includes large enterprise solutions - both monolith and cloud-native, small webapps and a little bit of open source. From 0 to Production and all the way after.
